@@ -559,7 +559,8 @@ text-decoration: underline;
 margin-left: 70px;
 }
 
-.footer-social > p {
+.footer-social > p,
+.footer-newsletter > p {
 color: var(--brand-color-white);
 font-size: 14px;
 font-weight: 700;

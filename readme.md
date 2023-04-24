@@ -1,1 +1,2 @@
-https://maarkiel.github.io/goit-markup-hw-05/
+# https://brzozanet.github.io/goit-markup-hw-06
+HTML+CSS Poland >> Moduł 6 Formularze >> Zadanie domowe
