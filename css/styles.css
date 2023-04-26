@@ -646,6 +646,11 @@ body {
   cursor: pointer;
 }
 
+.newsletter-btn:hover {
+  background-color: var(--brand-color-white);
+  color: var(--brand-color-blue);
+}
+
 /* MODAL WINDOW */
 
 .is-hidden {
@@ -783,7 +788,10 @@ body {
   border: none;
   cursor: pointer;
 }
-
+.modal-form-btn:hover {
+  background-color: var(--brand-color-dark);
+  color: var(--brand-color-blue);
+}
 .modal-form-check {
   display: block;
   margin-top: 20px;
